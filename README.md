@@ -1,17 +1,16 @@
-button.css
-=========
-
-button.css is a small css frame work which allows you to create buttons on 
-your website easier than ever. All you need to do is specify what syle, font, 
-size and colour. You can even create your own. The index.html has an example
-of how to do it you can also turn on or off the animation when you hover. 
+### Welcome to button.css.
+button.css is a css framework designed to allow you to create awesome looking buttons without spending a long time making buttons instead we have these buttons already made all you have to do is tell us what you want. Does that sound simple?
 
 
-This framework is only in beta and it most probably have bugs in there will
-also be a design change to the buttons and I will add more button styles
-I only started this on 26/06/13 and it took me 3 hours to plan and code this
-part of it. If you find a bug or have an idea for this framework or want to 
-work with me on it tweet me @bradlestrange I will reply and if you want to
-have update about how the frame work is going follow me on twitter.
 
-Note: Be nice. :)
+### Premade Buttons
+Currently we only have one style of buttons which are metric and will have a design change depending on what our users (you) think about them we will update them. These premade buttons are coded to be nice on the server load thats why we use no images in our buttons just pure CSS.
+
+### Templates
+Currently we do not have a template so you can make your own button set. We will add that in on 1/7/2013 Monday or earlier send you template in and if we like it we may add it to the set or make it an addon.
+
+### Authors
+button.css was made by @bradlestrange this is the same username for twitter. Brad made button.css because whenever he started a new project he always had to code the buttons again and again which wasted time so instead to save himself and other people time he decided to make button.css so that there is no more full on coding maybe a color and size change but no style change. You can probably tell by now that Brad isn't very good at talking in 3rd person.
+
+### Support or Contact
+If you are having trouble with button.css please contact Brad on twitter @bradlestrange or email brad@strangemag.co.uk
