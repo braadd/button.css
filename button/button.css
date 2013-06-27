@@ -56,102 +56,127 @@ a { text-decoration: none; } a:hover { text-decoration: none; }
     -o-transition: all .5s;
 	transition: all .5s;
 }
+
+.rounded5 {
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+}
+
+.rounded10 {
+	border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+}
+
+.rounded20 {
+	border-radius: 20px;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+}
+
+.rounded40 {
+	border-radius: 40px;
+	-webkit-border-radius: 40px;
+	-moz-border-radius: 40px;
+}
+
 .flat {
 	display: inline-block;
 }
 
 .flat.red {
-  background: #bf3f3f;
+  background-color: #bf3f3f;
 }
 
 .flat.red:hover {
-	background: #933030;
+	background-color: #933030;
 }
 
 .flat.pink {
-  background: #bf3fb4;
+  background-color: #bf3fb4;
 }
 
 .flat.pink:hover {
-	background: #94328c;
+	background-color: #94328c;
 }
 
 .flat.purple {
-  background: #963fbf;
+  background-color: #963fbf;
 }
 
 .flat.purple:hover {
-	background: #6f2e8d;
+	background-color: #6f2e8d;
 }
 
 .flat.blue {
-  background: #3f3fbf;
+  background-color: #3f3fbf;
 }
 
 .flat.blue:hover {
-	background: #2e2e88;
+	background-color: #2e2e88;
 }
 
 .flat.cyan {
-  background: #3f90bf;
+  background-color: #3f90bf;
 }
 
 .flat.cyan:hover {
-	background: #2f6c8f;
+	background-color: #2f6c8f;
 }
 
 .flat.test1 {
-  background: #3fbfbd;
+  background-color: #3fbfbd;
 }
 
 .flat.test1:hover {
-	background: #2f918f;
+	background-color: #2f918f;
 }
 
 .flat.test2 {
-  background: #3fbf84;
+  background-color: #3fbf84;
 }
 
 .flat.test2:hover {
-	background: #2f8d62;
+	background-color: #2f8d62;
 }
 
 .flat.green {
-  background: #3fbf4e;
+  background-color: #3fbf4e;
 }
 
 .flat.green:hover {
-	background: #2d8637;
+	background-color: #2d8637;
 }
 
 .flat.test3 {
-  background: #75bf3f;
+  background-color: #75bf3f;
 }
 
 .flat.test3:hover {
-	background: #5a9330;
+	background-color: #5a9330;
 }
 
 .flat.lime {
-  background: #b4bf3f;
+  background-color: #b4bf3f;
 }
 
 .flat.lime:hover {
-	background: #969f34;
+	background-color: #969f34;
 }
 
 .flat.gold {
-  background: #bfa53f;
+  background-color: #bfa53f;
 }
 
 .flat.gold:hover {
-	background: #a18b35;
+	background-color: #a18b35;
 }
 
 .flat.orange {
-  background: #bf8a3f;
+  background-color: #bf8a3f;
 }
 
 .flat.orange:hover {
-	background: #a67838;
+	background-color: #a67838;
 }
